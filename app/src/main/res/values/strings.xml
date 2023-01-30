@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">praktikumIntent</string>
+    <string name="move_with_data">Pindah dengan Data</string>
+    <string name="move_with_object">Pindah dengan Objek</string>
+    <string name="dial_number">Dial Number</string>
+    <string name="move_with_result">Pindah dengan Hasil</string>
+    <string name="choose_number" />
+    <string name="_50">50</string>
+    <string name="_100">100</string>
+    <string name="_150">150</string>
+    <string name="_200">200</string>
+    <string name="choose" />
+</resources>
